@@ -18,6 +18,7 @@ Crea una página de tienda:
 - Crea una vista de HBS e implementa, a través del patrón MVC, un sistema que permita enviar todos los productos desde la BBDD hasta la vista, mostrándolos de la forma que creas conveniente (columnados, con botón _Comprar_ no funcional, etcétera). La transacción de la base de datos debe estar:
   - Proyectada: omite todos los datos de los productos que no muestres en la vista.
   - Ordenada: muestra los productos ordenados por su precio, de menor a mayor.
+- Muéstrala bajo la URL `/tienda`
 
 
 Japi coding! 💙
